@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+guid: 331f3c02c835c0841947ed257c35469f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: 
+  stringIDs: []
+  compilationStatus: 0
+  isSuccesfullyCompiled: 0
+  compilationErrorMessage: "Error on line 17 at position 57:\nmismatched input ']'
+    expecting FORMAT_FUNCTION_EXPRESSION_START\r\nDon't be stupid. There is no way
+    you can hide me from [i]them[/i].\r\n                                                        ^\n\nTokens:\n1:0
+    ID \"title\"\n1:5 HEADER_DELIMITER \": \"\n1:7 REST_OF_LINE \"Start\"\n2:0 HEADER_NEWLINE
+    \"\n\"\n2:0 ID \"tags\"\n2:4 HEADER_DELIMITER \": \"\n3:0 HEADER_NEWLINE \"\n\"\n3:0
+    ID \"colorID\"\n3:7 HEADER_DELIMITER \": \"\n3:9 REST_OF_LINE \"0\"\n4:0 HEADER_NEWLINE
+    \"\n\"\n4:0 ID \"position\"\n4:8 HEADER_DELIMITER \": \"\n4:10 REST_OF_LINE \"317,136\"\n5:0
+    HEADER_NEWLINE \"\n\"\n5:0 '---' \"---\"\n6:0 TEXT \"...\"\n7:0 TEXT_NEWLINE \"\n\"\n7:0
+    TEXT \"(It's... It's impossible ! The last tithe of this planet was given in 3561
+    ! They can't just come back ten years later as if nothing happened !)\"\n8:0 TEXT_NEWLINE
+    \"\n\"\n8:0 TEXT \"(What now ? It's not like we can hide her any longer...)\"\n9:0
+    TEXT_NEWLINE \"\n\"\n9:0 TEXT \"(Wait... \"Hiding\" her ? Shouldn't Dad be aware
+    of the presence of a Purple Ship in the system ?)\"\n10:0 TEXT_NEWLINE \"\n\"\n10:0
+    TEXT \"(... !)\"\n11:0 TEXT_NEWLINE \"\n\"\n11:0 TEXT \"(Why didn't I realize
+    earlier ? The reason of Dad's absence back then should have been obvious...)\"\n12:0
+    TEXT_NEWLINE \"\n\"\n12:0 TEXT \"Say...\"\n13:0 TEXT_NEWLINE \"\n\"\n13:0 TEXT
+    \"By any chance...\"\n14:0 TEXT_NEWLINE \"\n\"\n14:0 TEXT \"Is this ship here
+    to take me ?\"\n15:0 TEXT_NEWLINE \"\n\"\n15:0 TEXT \"(...)\"\n16:0 TEXT_NEWLINE
+    \"\n\"\n16:0 TEXT \"Get inside the house, quick ! We can still-\"\n17:0 TEXT_NEWLINE
+    \"\n\"\n17:0 TEXT \"Don't be stupid. There is no way you can hide me from \"\n17:54
+    TEXT_FORMAT_FUNCTION_START \"[\"\n17:55 FORMAT_FUNCTION_ID \"i\"\n17:56 ']' \"]\"\n17:57
+    TEXT \"them\""
+  baseLanguage: {instanceID: 0}
+  localizations: []

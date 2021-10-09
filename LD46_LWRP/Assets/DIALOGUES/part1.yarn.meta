@@ -1,0 +1,40 @@
+fileFormatVersion: 2
+guid: 1c11368a2d89774458a9f4e149d5be29
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: 
+  stringIDs:
+  - part1-Start-0
+  - part1-Start-1
+  - part1-Start-2
+  - part1-Start-3
+  - part1-Start-4
+  - part1-Start-5
+  - part1-Start-6
+  - part1-Start-7
+  - part1-Start-8
+  - part1-Start-9
+  - part1-Start-10
+  - part1-Start-11
+  - part1-Start-12
+  - part1-Start-13
+  - part1-Start-14
+  - part1-Start-15
+  - part1-Start-16
+  - part1-Start-17
+  - part1-Start-18
+  - part1-Start-19
+  - part1-Start-20
+  - part1-Start-21
+  - part1-Start-22
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {instanceID: 0}
+  localizations: []

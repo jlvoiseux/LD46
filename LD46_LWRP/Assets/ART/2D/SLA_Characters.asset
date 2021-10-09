@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: SLA_Characters
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Boy
+    m_Hash: 1206074956
+    m_CategoryList:
+    - m_Name: Idle1
+      m_Hash: 790364397
+      m_Sprite: {fileID: 21300000, guid: 059f4ceaa018d634ab4a7b73b37dd6f9, type: 3}
+    - m_Name: Idle2
+      m_Hash: -1240116905
+      m_Sprite: {fileID: 21300000, guid: 47e38943930ec8845847f7374cd20f03, type: 3}
+    - m_Name: Idle3
+      m_Hash: -1055759935
+      m_Sprite: {fileID: 21300000, guid: c6a268c969ef1074c94f52166fd68d81, type: 3}
+  - m_Name: Girl
+    m_Hash: 965507376
+    m_CategoryList:
+    - m_Name: Idle1
+      m_Hash: 790364397
+      m_Sprite: {fileID: 21300000, guid: 05f2c322311d0f84892b2f6ec4657cf9, type: 3}
+    - m_Name: Idle2
+      m_Hash: -1240116905
+      m_Sprite: {fileID: 21300000, guid: b46f5e71bcdb7344e9091aaa91a2a071, type: 3}
+    - m_Name: Idle3
+      m_Hash: -1055759935
+      m_Sprite: {fileID: 21300000, guid: 9f98ac570586ec1449668667fc7297f3, type: 3}
+  - m_Name: Painter
+    m_Hash: -944558012
+    m_CategoryList:
+    - m_Name: Idle1
+      m_Hash: 790364397
+      m_Sprite: {fileID: 21300000, guid: f2b4a17c044886b4b8314a07fed4fc94, type: 3}
+    - m_Name: Idle2
+      m_Hash: -1240116905
+      m_Sprite: {fileID: 21300000, guid: 13b4098fcfc984e49ba1a697e6ba28f1, type: 3}
+    - m_Name: Idle3
+      m_Hash: -1055759935
+      m_Sprite: {fileID: 21300000, guid: f4bb8775f7f28cf44896732e9c4e8054, type: 3}
+  - m_Name: Custo
+    m_Hash: 1165595416
+    m_CategoryList:
+    - m_Name: Idle1
+      m_Hash: 790364397
+      m_Sprite: {fileID: 21300000, guid: 4e29038cced30834c99cf48f5c40a999, type: 3}
+    - m_Name: Idle2
+      m_Hash: -1240116905
+      m_Sprite: {fileID: 21300000, guid: 32020f6c6578c8d4ab36f511da2993de, type: 3}
+    - m_Name: Idle3
+      m_Hash: -1055759935
+      m_Sprite: {fileID: 21300000, guid: 02e169cbe4b7e08409b0ab423f4c79cb, type: 3}
